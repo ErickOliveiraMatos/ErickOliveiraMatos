@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**ErickOliveiraMatos/ErickOliveiraMatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Erick Matos**, estudante de Ciência da Computação no Brasil.
 
-Here are some ideas to get you started:
+Eu construo e exploro tudo o que surge no meu caminho através dos meus estudos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Se um novo desafio ou projeto aparece na minha trajetória acadêmica, as chances são de que eu vou construí-lo e colocá-lo em prática.
+
+Minha stack principal é **Java, JavaScript, HTML, CSS e SQL**. Minhas ferramentas favoritas são **VS Code, Figma, Notion e Trello**.
+
+No momento, estou iniciando minha jornada no GitHub e desenvolvendo meus primeiros repositórios públicos.
+
+**Fatos Curiosos:**
+
+* Tenho um cachorro 🐶
+* Sou entusiasta de Fórmula 1 🏎️
+* Toco um instrumento musical 🎸
+* **Attack on Titan** é meu anime favorito
+* **Hobbies:** anime, tocar música, construir coisas
