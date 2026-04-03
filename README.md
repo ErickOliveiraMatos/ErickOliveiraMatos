@@ -10,7 +10,7 @@ Minha stack principal é **Java, JavaScript, HTML, CSS e SQL**. Minhas ferrament
 
 No momento, estou iniciando minha jornada no GitHub e desenvolvendo meus primeiros repositórios públicos.
 
-**Fatos Curiosos:**
+**Fatos Sobre Mim:**
 
 * Tenho um cachorro 🐶
 * Sou entusiasta de Fórmula 1 🏎️
